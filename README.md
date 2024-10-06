@@ -9,6 +9,6 @@
 | --- | --------------------------------------------------------------------- | --------- |
 | 1   | [Kevin Estuardo Palacios Quiñonez](https://github.com/KevinPalaciosQ) | 201902278 |
 
-# Manuales 📖
+# Manual 📖
 
 [Manual Técnico🔧](./practica2/Documentación/ManualTecnico.md)
